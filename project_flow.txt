@@ -9,4 +9,6 @@
 9.Now we do dvc commit and dvc push
 10.Do a git commit and track this version of data
 11.Now make changes to mycode.py to append new rows in data, check changes through dvc status
-
+12.Again dvc commit and push
+13. Add git push commit
+14.Add new row to mycode.py to v3
