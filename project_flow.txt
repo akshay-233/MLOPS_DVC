@@ -12,3 +12,6 @@
 12.Again dvc commit and push
 13. Add git push commit
 14.Add new row to mycode.py to v3
+15. git log --oneline
+16.git checkout <hash> - git checkout master
+17.dvc pull
