@@ -6,3 +6,5 @@
 6.mkdir s3
 7.No we do "dvc remote add -d myremote S3 
 8. dvc add data/
+9.Now we do dvc commit and dvc push
+10.Do a git commit and track this version of data
