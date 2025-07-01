@@ -3,3 +3,6 @@
 3.Do a git add-commit-push before initiating DVC
 4.#pip install dvc
 5.Initiating dvc 
+6.mkdir s3
+7.No we do "dvc remote add -d myremote S3 
+8. dvc add data/
